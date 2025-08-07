@@ -1,4 +1,4 @@
-<h1 align="center">درود خوش آمدید</h1>
+<h1 align="center">Hi Welcome To My Github</h1>
 
 <p align="center">
  👋 Hi, I'm Nima – a self-taught Flutter developer from Iran. 🌱 Currently building practical apps to learn & grow. 🚀 Passionate about clean UI, open-source, and creating useful tools. 🛠️ Tech Stack: • Frontend: Flutter, Dart, GetX, Provider, Hive • Backend: Firebase, PocketBase, REST API, Node.js (learning) • Tools: Git, GitHub, Render, Postman 📚 Always learning, always building. 💡 Let's connect and collaborate!
