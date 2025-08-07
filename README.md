@@ -1,9 +1,7 @@
 <h1 align="center">درود خوش آمدید</h1>
 
 <p align="center">
-  من نیما هستم، توسعه‌دهنده فلاتر با علاقه به ساخت اپلیکیشن‌های زیبا و کاربردی.<br/>
-  تمرکزم روی طراحی رابط کاربری (UI) و تجربه کاربری (UX) هست و دوست دارم با هر پروژه‌ای چیز جدیدی یاد بگیرم!<br/>
-  عاشق یادگیری‌ام و همیشه دنبال به‌چالش‌کشیدن خودم در دنیای تکنولوژی.
+ 👋 Hi, I'm Nima – a self-taught Flutter developer from Iran. 🌱 Currently building practical apps to learn & grow. 🚀 Passionate about clean UI, open-source, and creating useful tools. 🛠️ Tech Stack: • Frontend: Flutter, Dart, GetX, Provider, Hive • Backend: Firebase, PocketBase, REST API, Node.js (learning) • Tools: Git, GitHub, Render, Postman 📚 Always learning, always building. 💡 Let's connect and collaborate!
 </p>
 
 ###
