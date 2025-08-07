@@ -1,4 +1,4 @@
-<h1 align="center">سلام 👋 چه خبر؟</h1>
+<h1 align="center">درود خوش آمدید</h1>
 
 <p align="center">
   من نیما هستم، توسعه‌دهنده فلاتر با علاقه به ساخت اپلیکیشن‌های زیبا و کاربردی.<br/>
@@ -31,9 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  <a href="https://t.me/kianinima82" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
 </div>
 
 ###
